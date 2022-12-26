@@ -73,7 +73,7 @@ void displayMessage(){
   oled.setTextSize(1);
   oled.setTextColor(WHITE);
   oled.setCursor(2, 5);
-  oled.println("Press")
+  oled.println("Press");
   oled.display();
   oled.setCursor(2, 25);
   oled.println("floor");
